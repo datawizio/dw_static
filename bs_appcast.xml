@@ -9,7 +9,7 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.datawizio.braveShop" 
                        sparkle:version="1.0.8" 
                        sparkle:os="android" 
-                       sparkle:criticalUpdate/>
+                       sparkle:criticalUpdate=true/>
         </item>
     </channel>
 </rss>
